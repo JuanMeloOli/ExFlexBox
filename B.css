@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(124, 0, 232);
+}
+
+
+
+.container-exercicioB{
+    display: flex;
+    flex-direction: column-reverse;
+    width: 15vw;
+    height: 100vh;
+    text-align: center;
+    font-size: 70px;
+    
+}
+.box{
+    line-height: 25vh;
+    width: 100%;
+    height: 100%;
+}
+.um{
+    background-color: #7fffd4;
+}
+.dois{
+
+    background-color: #01017a;
+}
+.tres{
+    background-color: #b91249;
+}
+.quatro{
+    background-color: #e1a903;
+}
